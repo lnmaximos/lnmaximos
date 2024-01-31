@@ -4,7 +4,7 @@
 I code.
 
 *   🌍  I'm based in Blumenau, SC
-*   🖥️  See my portfolio at [my website](http://leonmaximos.me)
+*   🖥️  Browse through my experiences on [my website](http://leonmaximos.me)
 *   ✉️  You can contact me at [lnmaximos@gmail.com](mailto:lnmaximos@gmail.com)
 
 
