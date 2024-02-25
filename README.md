@@ -9,7 +9,6 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/376350/spring.svg" width="50" height="50" alt="Spring"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="50" height="50" alt="JQuery"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git"/>&nbsp;&nbsp;&nbsp;
