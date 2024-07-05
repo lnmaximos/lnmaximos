@@ -2,7 +2,7 @@
 =============================
 
 *   🌍  I'm based in Blumenau, SC, Brazil
-*   🖥️  Browse through my experiences on [my website](http://leonmaximos.me)
+*   🖥️  Browse through my experiences on [my website](http://leonmaximos.me) (outdated)
 *   ✉️  You can contact me at [lnmaximos@gmail.com](mailto:lnmaximos@gmail.com)
 
 ### Skills 
